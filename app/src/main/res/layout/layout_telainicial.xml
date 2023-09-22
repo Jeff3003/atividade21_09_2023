@@ -16,7 +16,7 @@
         android:layout_marginTop="60sp"
         android:text="Welcome Back!"
         android:textAllCaps="false"
-        android:textColor="@color/white"
+        android:textColor="#787575"
         android:textSize="40sp"
         android:textStyle="bold" />
 
@@ -28,8 +28,7 @@
         android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         android:textAlignment="center"
         android:textAllCaps="false"
-        android:textColor="#FFFFFF"
-        android:textColorHighlight="@color/white"
+        android:textColor="@color/white"
         android:textSize="13sp" />
 
     <ImageView
@@ -43,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:textColor="@color/white"
+        android:textColor="#787575"
         android:layout_marginTop="20dp"
         android:text="VENOM CORP."
         android:textAllCaps="false"
@@ -79,12 +78,23 @@
         android:layout_weight="1"
         android:text="Sair" />
 
+    <TextView
+        android:layout_width="269dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:text="Acesse pelas Redes Sociais"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="60sp"
+        android:layout_marginBottom="50sp"
         android:orientation="horizontal">
 
 
